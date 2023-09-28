@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657966400670",
+    "project_id": "flutterkamli",
+    "storage_bucket": "flutterkamli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657966400670:android:736aba206b2972a87a678f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_cli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ0bUKr4dwZR2bxd3pO0Quisk26GT0skw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
